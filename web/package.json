@@ -1,0 +1,10 @@
+{
+  "name": "dunkelmann-web",
+  "private": true,
+  "version": "2.5.0",
+  "description": "Dunkelmann Web Dashboard – Magyar fejlesztésű bot kezelőfelület",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node -r ts-node/register index.ts"
+  }
+}
